@@ -1,0 +1,5 @@
+ohadr     7590     1  0 09:04 ?        00:00:00 sshfs -o auto_cache,reconnect -o Ciphers=aes128-ctr -o Compression=no ohadr@rack-jonathan-04:/media/disk2 /a/home/cc/students/cs/ohadr/netapp/4TB_SSD
+SSHFS version 2.4
+fuse: bad mount point `/4TB_SSD': No such file or directory
+SSHFS version 2.4
+fuse: bad mount point `/4TB_SSD': No such file or directory

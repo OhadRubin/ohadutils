@@ -1,0 +1,6 @@
+setup.py
+Ohadutils.egg-info/PKG-INFO
+Ohadutils.egg-info/SOURCES.txt
+Ohadutils.egg-info/dependency_links.txt
+Ohadutils.egg-info/top_level.txt
+ohadutils/file_utils.py
