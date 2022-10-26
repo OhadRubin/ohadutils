@@ -5,4 +5,14 @@ Ohadutils.egg-info/dependency_links.txt
 Ohadutils.egg-info/entry_points.txt
 Ohadutils.egg-info/requires.txt
 Ohadutils.egg-info/top_level.txt
+ohadutils/alert.py
 ohadutils/file_utils.py
+ohadutils/login.py
+ohadutils/queue.py
+ohadutils/ray_utils.py
+tiny_queue/agent.py
+tiny_queue/agent_v2.py
+tiny_queue/cli.py
+tiny_queue/login.py
+tiny_queue/submit.py
+tiny_queue/subprocess_timeout.py
