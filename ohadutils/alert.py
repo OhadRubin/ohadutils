@@ -1,6 +1,7 @@
 import os
 from slack import WebClient
 
+CACHE_PATH = user_cache_dir("alerts", "alerts")
 
 def send_message(message):
 
